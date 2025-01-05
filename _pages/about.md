@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-> 中文版请下滑
+<!-- > 中文版请下滑 -->
 
 My interest is to decipher learning principles of biological neurons, so as to reverse-engineer them as new algorithms or specialized hardware. Such a route would, on the one hand, bring us one step closer to the true machine intelligence (as our attempt in [Fractile](https://www.fractile.ai/)); on the other hand, improve our understanding of the most sophisticated part of our body, the brain (as our attempt in [the _Nature Neuroscience_ paper](https://www.nature.com/articles/s41593-023-01514-1)).
 <!-- , so that diseases related to learning, and broadly, to neural systems, can be better understood and treated -->
@@ -25,7 +25,7 @@ My research inspires 100x more efficient hardware for artificial neural networks
 
 I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/) and [Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/) in 2024. Circlemind is [backed by YC at F24 batch](https://www.ycombinator.com/companies/circlemind).
 
-------
+<!-- ------
 
 我的研究是破译生物神经的学习原理，并将其逆向工程为新型算法或专用硬件。这一方向让我们离真正的机器智能更近一步（如我们在[Fractile](https://www.fractile.ai/)中的尝试），也推动我们对大脑这一最复杂器官的深入理解（如我们在[_Nature Neuroscience_文章](https://www.nature.com/articles/s41593-023-01514-1)中的尝试）。
 
@@ -38,4 +38,4 @@ I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedi
 
 我的研究启发了比传统GPU能效高100倍的硬件范式, 并从牛津大学拆分初创公司: [Fractile](https://www.fractile.ai/)。我很荣幸与[Walter](https://www.linkedin.com/in/walter-goodwin/)在2021年一起成立Fractile，并担任CTO。2021到2024年间，Fractile[从多家风投融资合1.2亿人民币](https://fortune.com/2024/07/26/fractile-ai-chip-startup-nvidia-15-million-funding-seed-round/)并[受到英国政府资助合5800万人民币](https://www.businessweekly.co.uk/posts/fractile-on-song-as-aria-awards-ps5m-to-ai-chip-design-pioneer)。我于2024年退出Fractile。
 
-2024年，我和[Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/)及[Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/)一起成立初创公司[Circlemind](https://circlemind.co)。Circlemind[受到YC在2024秋季批次的投资](https://www.ycombinator.com/companies/circlemind)。
+2024年，我和[Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/)及[Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/)一起成立初创公司[Circlemind](https://circlemind.co)。Circlemind[受到YC在2024秋季批次的投资](https://www.ycombinator.com/companies/circlemind)。 -->
