@@ -33,19 +33,24 @@ Below lists the topics that we are currently most excited about and actively wor
 You should a strongly believer in first principle: meaning you have a strong curiosity in asking "but fundamentally why and how?". You enjoy such process of deep thinking and exploring to understand the essence of things (in science, technology, even also in life). You are enjoying this also because you believe that is only way to make sense of things and create a unique value! Linked to this, you should be a honest person: honest with people, with science and technology, and most importantly, honest with yourself.
 
 **"Intelligence-wise": you should either be able to "handle complexity" or can "make things simple".**
-I see broadly two kinds of people in my life, and you can be either one of them (i.e., don't have to be both):
+I see broadly two kinds of talents, and you can be either one of them (i.e., don't have to be both):
 - _Able to "handle complexity"._ You just good at work with symbols, you are good at math or physics (by demonstrating your transcripts). In this case, you don't even have to be good at coding for now. But of course, you should consider coding as a tool, and have passion in learning it (at least some basics).
 - _Able to "make things simple"._ You are eager to understand things in the deepest way, which often means the simplest way of explaining. You can demonstrate by explaining a new concept/idea to a general audience, you enjoy explaining to them and you can make the explanation so simple and intuitive that it becomes a pleasant experience for both you and your audience. You normally good at coding in this case (or you should be able to get good at coding soon), due to the particular way your brain approaches things.
 
 I myself is unfortunately not the first type, but fortunately to be the second type.
 
-Language
-Intensive intentional collaboration, willing to learn or already do
+We will have intensive intentional collaboration, so you should be confident in your English, or ready to improve in short time.
+
+You expect the time to be a pleasant intelligence exercise, you are curious, eager to explore and learn.
 
 ## Expected Outcomes
 
-What you can expect out of the experience?
-Deep paper vs shallow paper
-Deep not equal to hard, 2 in three weeks.
+We produce "deep" work (papers, posts, repos or anything) with profound impacts, rather than "shallow" work with short-term aim (for example, just to have more papers accepted).
+But "deep" papers does not mean "difficult" papers, with the right insights, we produce papers with good impact and get accepted easily in top AI conferences, with only 2-3 weeks' work.
+
+**Should I expect myself gaining industrial or research qualities from the experience?**
+We consider our research demands, thus, trains you to develop the very general capability: looking and solving problem from the fundamentals. Such capability should be desired in both industrial and research setups.
+But for these industrial career requires very specific tech skills, we are not aligned.
+So over all, we consider the outcome to be leaning towards a research-type of career.
 
 add emoj
