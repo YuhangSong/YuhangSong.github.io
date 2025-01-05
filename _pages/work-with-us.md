@@ -45,12 +45,10 @@ You expect the time to be a pleasant intelligence exercise, you are curious, eag
 
 ## Expected Outcomes
 
-We produce "deep" work (papers, posts, repos or anything) with profound impacts, rather than "shallow" work with short-term aim (for example, just to have more papers accepted).
+**We produce "deep" work (papers, posts, repos or anything) with profound impacts**, rather than "shallow" work with short-term aim (for example, just to have more papers accepted).
 But "deep" papers does not mean "difficult" papers, with the right insights, we produce papers with good impact and get accepted easily in top AI conferences, with only 2-3 weeks' work.
 
 **Should I expect myself gaining industrial or research qualities from the experience?**
 We consider our research demands, thus, trains you to develop the very general capability: looking and solving problem from the fundamentals. Such capability should be desired in both industrial and research setups.
 But for these industrial career requires very specific tech skills, we are not aligned.
 So over all, we consider the outcome to be leaning towards a research-type of career.
-
-add emoj
