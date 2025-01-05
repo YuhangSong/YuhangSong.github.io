@@ -39,3 +39,8 @@ I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedi
 我的研究启发了比传统GPU能效高100倍的硬件范式, 并从牛津大学拆分初创公司: [Fractile](https://www.fractile.ai/)。我很荣幸与[Walter](https://www.linkedin.com/in/walter-goodwin/)在2021年一起成立Fractile，并担任CTO。2021到2024年间，Fractile[从多家风投融资合1.2亿人民币](https://fortune.com/2024/07/26/fractile-ai-chip-startup-nvidia-15-million-funding-seed-round/)并[受到英国政府资助合5800万人民币](https://www.businessweekly.co.uk/posts/fractile-on-song-as-aria-awards-ps5m-to-ai-chip-design-pioneer)。我于2024年退出Fractile。
 
 2024年，我和[Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/)及[Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/)一起成立初创公司[Circlemind](https://circlemind.co)。Circlemind[受到YC在2024秋季批次的投资](https://www.ycombinator.com/companies/circlemind)。 -->
+
+Quick Links
+======
+
+* For students interested in working with us, see [here](https://yuhangsong.github.io/work-with-us/). 
