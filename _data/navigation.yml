@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Work with Us"
-    url: /work-with-us/    
+  # - title: "Work with Us"
+  #   url: /work-with-us/    
 
   - title: "Contact"
     url: /contact/
