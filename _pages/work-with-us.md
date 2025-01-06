@@ -56,3 +56,5 @@ But "deep" papers do not necessarily mean "difficult" papers. With the right ins
 We consider our research demands and thus train you to develop the very general capability: looking and solving problems from the fundamentals. Such capability should be desired in both industrial and research setups.
 But for those industrial careers requiring very specific technical skills, we are not aligned.
 So overall, we consider the outcome to be leaning towards a research-type of career.
+
+🎉 Congrats in making it to the end! You are now ready to reach out to us [here](https://yuhangsong.github.io/contact/).
