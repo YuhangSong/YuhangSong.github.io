@@ -1,6 +1,6 @@
 ---
 permalink: /work-with-us/
-title: "Work with Us"
+title: "🤝 Work with Us"
 author_profile: true
 redirect_from:
     - /work-with-us/
@@ -27,7 +27,7 @@ Below lists the topics that we are currently most excited about and actively wor
 -   ⚛️ The "atom" of learning. We have been working on a learning rule that internally we called "3Q", because the learning rule can be described by three simple equations of basic operations like addition and multiplication. It has the best biological plausibility we’ve ever seen (thus potentially the best candidate for designing next-generation AI acceleration hardware). However, we have not yet quite figured out its learning capacity. What is the learning dynamic of 3Q? What are the "learning guarantees" of 3Q? How would 3Q (or can it) implement key computation motifs like gating, attention, etc.?
 -   🌀 The "essence" of self-attention. Self-attention has demonstrated to be the most expressive architecture that essentially opens up the era of "large models". We want to understand the "essence" of self-attention. For example, we see it is essentially an "associative memory" (see [here](https://proceedings.mlr.press/v162/millidge22a/millidge22a.pdf)), and it is related to the simplest problem in machine learning, linear regression (see [here](https://c16mftang.github.io/attention.html), particularly, [Mufeng](https://c16mftang.github.io/index.html) spotted this). So what is the "essence" of self-attention? Would understanding this unlock better self-attention, with simpler operators that is more biological plausible or/and hardware friendly? Or would understanding this inspire alternative mechanisms of self-attention?
 
-🍒 More to come... But you should get a taste of our research here.
+More to come... But you should get a taste of our research here.
 
 ## 🌟 Expected Qualities
 
