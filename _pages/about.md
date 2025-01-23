@@ -9,7 +9,12 @@ redirect_from:
 
 <!-- > 中文版请下滑 -->
 
-My interest is to decipher learning principles of biological neurons, so as to reverse-engineer them as new algorithms or specialized hardware. Such a route would, on the one hand, bring us one step closer to the true machine intelligence (as our attempt in [Fractile](https://www.fractile.ai/)); on the other hand, improve our understanding of the most sophisticated part of our body, the brain (as our attempt in [the _Nature Neuroscience_ paper](https://www.nature.com/articles/s41593-023-01514-1)).
+My interest is to decipher learning principles of biological neurons,
+<!-- so as to reverse-engineer them as new algorithms or specialized hardware.  -->
+<!-- With such a route, we  -->
+with an aim of discovering and understanding the fundamental elements of intelligence, so as to build the next-generation learning systems (for the next 10+ years 🚀).
+
+<!-- Such a route would, on the one hand, bring us one step closer to the true machine intelligence (as our attempt in [Fractile](https://www.fractile.ai/)); on the other hand, improve our understanding of the most sophisticated part of our body, the brain (as our attempt in [the _Nature Neuroscience_ paper](https://www.nature.com/articles/s41593-023-01514-1)). -->
 
 <!-- , so that diseases related to learning, and broadly, to neural systems, can be better understood and treated -->
 
