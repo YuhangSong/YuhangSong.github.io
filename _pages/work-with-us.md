@@ -18,7 +18,7 @@ If you are a student interested in working with us, have a read of this page, to
 
 We work across intersections of some of the most exciting topics related to intelligence (biological neurons, artificial neural networks, transformers, next-generation GPUs, detailed below). Most importantly, we look at things in the most first-principled way (from a most fundamental level). Thus explains why the above seemingly diverse topics form a coherent whole in our research:
 
-> ⚛️ We aim to discover and understand the fundamental elements of intelligence, so as to build the next-generation learning systems (for the next 10+ years 🚀).
+> We aim to discover and understand the fundamental elements of intelligence, so as to build the next-generation learning systems (for the next 10+ years 🚀).
 
 ## 📚 Research Topics
 
