@@ -30,7 +30,9 @@ My research is presented in [the Nature Portfolio collection of Nobel Prize in P
 
 My research inspires 100x more efficient hardware for artificial neural networks, turning into a spinout from Oxford University: [Fractile](https://www.fractile.ai/). I am fortunate to team up with [Walter](https://www.linkedin.com/in/walter-goodwin/) and cofound it in 2021 as the CTO. Fractile [raised a total of $17.5M from various VCs](https://fortune.com/2024/07/26/fractile-ai-chip-startup-nvidia-15-million-funding-seed-round/) and [$6.3M from ARIA](https://www.businessweekly.co.uk/posts/fractile-on-song-as-aria-awards-ps5m-to-ai-chip-design-pioneer) over 2021-2024 and I left Fractile in 2024 to pursue my next venture. In 2025, former Intel CEO, Pat Gelsinger, [invested and joined Fractile](https://thetechcapital.com/former-intel-ceo-backs-uk-ai-startup-fractile-to-boost-llm-inference/).
 
-I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/) and [Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/) in 2024. Circlemind is [backed by YC at F24 batch](https://www.ycombinator.com/companies/circlemind).
+I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/) and [Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/) in 2024. Circlemind is [backed by YC at F24 batch](https://www.ycombinator.com/companies/circlemind). I left Circlemind in 2025.
+
+I am currently an independent researcher.
 
 <!-- ------
 
