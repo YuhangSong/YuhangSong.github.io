@@ -34,6 +34,8 @@ I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedi
 
 I am currently an independent researcher.
 
+<!--  -->
+
 <!-- ------
 
 我的研究是破译生物神经的学习原理，并将其逆向工程为新型算法或专用硬件。这一方向让我们离真正的机器智能更近一步（如我们在[Fractile](https://www.fractile.ai/)中的尝试），也推动我们对大脑这一最复杂器官的深入理解（如我们在[_Nature Neuroscience_文章](https://www.nature.com/articles/s41593-023-01514-1)中的尝试）。
