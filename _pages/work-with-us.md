@@ -24,7 +24,7 @@ We work across intersections of some of the most exciting topics related to inte
 
 Below lists the topics that we are currently most excited about and actively working on (being updated regularly):
 
--   ⚛️ The "atom" of learning. We have been working on a learning rule that internally we called "3Q", because the learning rule can be described by three simple equations of basic operations like addition and multiplication. It has the best biological plausibility we’ve ever seen (thus potentially the best candidate for designing next-generation AI acceleration hardware). However, we have not yet quite figured out its learning capacity. What is the learning dynamic of 3Q? What are the "learning guarantees" of 3Q? How would 3Q (or can it) implement key computation motifs like gating, attention, etc.?
+-   ⚛️ The "atom" of learning. We have been working on a learning rule that internally we called "3Q", because the learning rule can be described by three simple equations of basic operations like addition and multiplication. It has the best biological plausibility we’ve ever seen (thus potentially the best candidate for designing next-generation AI acceleration hardware). However, we have not yet quite figured out its learning capacity. What is the learning dynamic of 3Q? What are the "learning guarantees" of 3Q? How would 3Q (or can it) implement key computation motifs like gating, attention, etc.? (The work is not published yet, so apologies for not more details here.)
 -   🌀 The "essence" of self-attention. Self-attention has demonstrated to be the most expressive architecture that essentially opens up the era of "large models". We want to understand the "essence" of self-attention. For example, we see it is essentially an "associative memory" (see [our ICLR paper](https://proceedings.mlr.press/v162/millidge22a/millidge22a.pdf)), and it is related to the simplest problem in machine learning, linear regression (see [here](https://c16mftang.github.io/attention.html), particularly, [Mufeng](https://c16mftang.github.io/index.html) spotted this). So what is the "essence" of self-attention? Would understanding this unlock better self-attention, with simpler operators that is more biological plausible or/and hardware friendly? Or would understanding this inspire alternative mechanisms of self-attention? 
 -   🤔 Better self-attention from better biological associative memory? Since we know self-attention can be seen as an "associative memory" from [our ICLR paper](https://proceedings.mlr.press/v162/millidge22a/millidge22a.pdf), [this nature paper](https://www.nature.com/articles/s41586-024-08392-y) talks about a new type of associative memory, would it inform better alternative of self-attention?
 
@@ -51,11 +51,11 @@ I see broadly two kinds of talents, and you can be either one of them (i.e., don
 ## 🎯 Expected Outcomes
 
 **We produce "deep" work (papers, posts, repos, or anything) with profound impacts**, rather than "shallow" work with short-term aims (for example, just to have more papers accepted).
-But "deep" papers do not necessarily mean "difficult" papers. With the right insights, we had experience before that we produced papers with good impact and are accepted easily in top AI conferences all within 2-3 weeks' effort.
+But "deep" papers do not necessarily mean "difficult" papers. With the right insights, we had experience before that we produced papers with good impact and are accepted in top AI conferences with 2-3 weeks' effort. (Of course, these are quite rare cases, normally deep work takes energy, enthusiasm, and time.)
 
 **Should I expect myself to gain industrial or research qualities from the experience?**
 We consider our research demands and thus train you to develop the very general capability: looking and solving problems from the fundamentals. Such capability should be desired in both industrial and research setups.
 But for those industrial careers requiring very specific technical skills, we are not aligned.
 So overall, we consider the outcome to be leaning towards a research-type of career.
 
-🎉 Congrats in making it to the end! You are now ready to reach out to us [here](https://yuhangsong.github.io/contact/).
+🎉 Congrats in making it to the end! You are now ready to reach out to us [here](https://yuhangsong.github.io/contact/), including a brief self-introduction and why you’re interested in working with us.
