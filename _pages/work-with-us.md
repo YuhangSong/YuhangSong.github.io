@@ -14,6 +14,8 @@ If you are a student interested in working with us, have a read of this page, to
 -   🌟 consider yourself a good fit for the expected qualities,
 -   🎯 and love what outcome you can expect in such an experience.
 
+We welcome talented students at all levels (undergraduate, master, PhD) and from all backgrounds (computer science, neuroscience, physics, mathematics, etc.).
+
 ## 🌈 Research Belief
 
 We work across intersections of some of the most exciting topics related to intelligence (biological neurons, artificial neural networks, transformers, next-generation GPUs, detailed below). Most importantly, we look at things in the most first-principled way (from a most fundamental level). Thus explains why the above seemingly diverse topics form a coherent whole in our research:
