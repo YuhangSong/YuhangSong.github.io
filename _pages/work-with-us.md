@@ -7,7 +7,7 @@ redirect_from:
     - /work-with-us.html
 ---
 
-If you are a student interested in working with us, have a read of this page, to see if you
+If interested in working with us, have a read of this page, to see if you
 
 -   🌈 buy our research belief,
 -   📚 are interested in the research topics,
@@ -18,7 +18,7 @@ We welcome talented students and researchers at all levels (undergraduate, maste
 
 ## 🌈 Research Belief
 
-We work across intersections of some of the most exciting topics related to intelligence (biological neurons, artificial neural networks, transformers, next-generation GPUs, detailed below). Most importantly, we look at things in the most first-principled way (from a most fundamental level). Thus explains why the above seemingly diverse topics form a coherent whole in our research:
+We work across intersections of some of the most exciting topics related to intelligence (biological neurons & brains, new artificial neural networks, dissected transformers, next-generation GPUs, neuromorphic devices & systems, emerging memories, and etc.). Most importantly, we look at things in the most first-principled way (from a most fundamental level). Thus explains why the above seemingly diverse topics form a coherent whole in our research:
 
 > We aim to discover and understand the fundamental elements of intelligence, so as to build the next-generation learning systems (for the next 10+ years 🚀).
 
@@ -29,6 +29,7 @@ Below lists the topics that we are currently most excited about and actively wor
 -   ⚛️ The "atom" of learning. We have been working on a learning rule that internally we called "3Q", because the learning rule can be described by three simple equations of basic operations like addition and multiplication. It has the best biological plausibility we’ve ever seen (thus potentially the best candidate for designing next-generation AI acceleration hardware). However, we have not yet quite figured out its learning capacity. What is the learning dynamic of 3Q? What are the "learning guarantees" of 3Q? How would 3Q (or can it) implement key computation motifs like gating, attention, etc.? (The work is not published yet, so apologies for not more details here.)
 -   🌀 The "essence" of self-attention. Self-attention has demonstrated to be the most expressive architecture that essentially opens up the era of "large models". We want to understand the "essence" of self-attention. For example, we see it is essentially an "associative memory" (see [our ICLR paper](https://proceedings.mlr.press/v162/millidge22a/millidge22a.pdf)), and it is related to the simplest problem in machine learning, linear regression (see [here](https://c16mftang.github.io/attention.html), particularly, [Mufeng](https://c16mftang.github.io/index.html) spotted this). So what is the "essence" of self-attention? Would understanding this unlock better self-attention, with simpler operators that is more biological plausible or/and hardware friendly? Or would understanding this inspire alternative mechanisms of self-attention? 
 -   🤔 Better self-attention from better biological associative memory? Since we know self-attention can be seen as an "associative memory" from [our ICLR paper](https://proceedings.mlr.press/v162/millidge22a/millidge22a.pdf), [this nature paper](https://www.nature.com/articles/s41586-024-08392-y) talks about a new type of associative memory, would it inform better alternative of self-attention?
+<!-- -   Neural networks as memories, in place of RAG. We learned through painful process of deploy AI in production that contextualization is the most important and challenging part. The current solution, RAG, is not working well nor elegant. We know neural networks can be made to as memories, would them be good enough  -->
 
 More to come... But you should get a taste of our research here.
 
