@@ -14,7 +14,7 @@ If you are a student interested in working with us, have a read of this page, to
 -   🌟 consider yourself a good fit for the expected qualities,
 -   🎯 and love what outcome you can expect in such an experience.
 
-We welcome talented students at all levels (undergraduate, master, PhD) and from all backgrounds (computer science, neuroscience, physics, mathematics, etc.).
+We welcome talented students and researchers at all levels (undergraduate, master, PhD, post-doc) and from all backgrounds (computer science, neuroscience, physics, mathematics, etc.).
 
 ## 🌈 Research Belief
 
