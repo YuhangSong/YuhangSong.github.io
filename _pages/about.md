@@ -55,3 +55,6 @@ I am currently an independent researcher.
 
 -   For students interested in working with us, see [here](https://yuhangsong.github.io/work-with-us/).
 -   Contact details [here](https://yuhangsong.github.io/contact/).
+
+<video src="https://raw.githubusercontent.com/yuhangsong/yuhangsong.github.io/main/files/ski.mp4" controls="controls" style="max-width: 700px;">
+</video>
