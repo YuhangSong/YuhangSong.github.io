@@ -13,3 +13,6 @@ I used to be super into badminton, played over 10+ years, and used to play for O
 I chase joy in the lab, on the court, and through the slopes and mountains — with the same heart.
 
 See below my recent freestyle skiing showoff — humblebrag included.
+
+<video src="https://raw.githubusercontent.com/yuhangsong/yuhangsong.github.io/master/files/ski.mp4" controls="controls" style="max-width: 700px;">
+</video>
