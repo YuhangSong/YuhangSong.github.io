@@ -14,5 +14,15 @@ I believe life and work deserve the same fire. So I chase joy in the code, on th
 
 See below my recent freestyle skiing showoff — humblebrag included.
 
-<video src="https://raw.githubusercontent.com/yuhangsong/yuhangsong.github.io/master/files/ski.mp4" controls="controls" style="max-width: 700px;" poster="https://raw.githubusercontent.com/yuhangsong/yuhangsong.github.io/master/files/ski_cover.jpg">>
-</video>
+<div style="max-width:700px">   <!-- limit the *container* if you wish -->
+  <video
+    src="https://raw.githubusercontent.com/yuhangsong/yuhangsong.github.io/master/files/ski.mp4"
+    controls
+    style="
+      width:100%;          /* fill the text column */
+      height:auto;         /* keep aspect-ratio */
+      display:block;       /* no extra whitespace under the video */
+    "
+    poster="https://raw.githubusercontent.com/yuhangsong/yuhangsong.github.io/master/files/ski_cover.jpg">
+  </video>
+</div>
