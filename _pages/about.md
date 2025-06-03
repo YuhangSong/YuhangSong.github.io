@@ -56,7 +56,7 @@ For students and researchers interested in working with us, see [here](https://y
 
 # Quick Links
 
--   [🧾 Publications](https://yuhangsong.github.io/publications/).
--   [🤝 Work with Us](https://yuhangsong.github.io/work-with-us/).
--   [✉️ Contact](https://yuhangsong.github.io/contact/).
--   [🌿 Life](https://yuhangsong.github.io/life/).
+- 🧾 [Publications](https://yuhangsong.github.io/publications/).
+- 🤝 [Work with Us](https://yuhangsong.github.io/work-with-us/).
+- ✉️ [Contact](https://yuhangsong.github.io/contact/).
+- 🌿 [Life](https://yuhangsong.github.io/life/).
