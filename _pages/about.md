@@ -54,7 +54,9 @@ For students and researchers interested in working with us, see [here](https://y
 
 2024年，我和[Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/)及[Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/)一起成立初创公司[Circlemind](https://circlemind.co)。Circlemind[受到YC在2024秋季批次的投资](https://www.ycombinator.com/companies/circlemind)。 -->
 
-<!-- # Quick Links
+# Quick Links
 
--   For students interested in working with us, see [here](https://yuhangsong.github.io/work-with-us/).
--   Contact details [here](https://yuhangsong.github.io/contact/). -->
+-   [🧾 Publications](https://yuhangsong.github.io/publications/).
+-   [🤝 Work with Us](https://yuhangsong.github.io/work-with-us/).
+-   [✉️ Contact](https://yuhangsong.github.io/contact/).
+-   [🌿 Life](https://yuhangsong.github.io/life/).
