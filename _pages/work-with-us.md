@@ -62,4 +62,6 @@ Such capability should be desired in both industrial and research contexts.
 But for those industrial careers requiring very specific technical skills, we are not aligned.
 So overall, we consider the outcome to be leaning towards a research-type of career. -->
 
+Just as this research direction carried me to fulfilling roles in academia, industrial research, and entrepreneurship, it can launch you toward success along whichever of these paths you choose. (I will add more details here later along each line.)
+
 🎉 Congrats in making it to the end! You are now ready to [reach out to us](https://yuhangsong.github.io/contact/), including a brief self-introduction and why you’re interested in working with us.
