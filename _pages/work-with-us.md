@@ -61,4 +61,4 @@ We consider our research demands and thus train you to develop the very general 
 But for those industrial careers requiring very specific technical skills, we are not aligned.
 So overall, we consider the outcome to be leaning towards a research-type of career.
 
-🎉 Congrats in making it to the end! You are now ready to reach out to us [here](https://yuhangsong.github.io/contact/), including a brief self-introduction and why you’re interested in working with us.
+🎉 Congrats in making it to the end! You are now ready to [reach out to us](https://yuhangsong.github.io/contact/), including a brief self-introduction and why you’re interested in working with us.
