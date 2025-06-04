@@ -12,7 +12,7 @@ redirect_from:
 My interest is to decipher learning principles of biological neurons,
 <!-- so as to reverse-engineer them as new algorithms or specialized hardware.  -->
 <!-- With such a route, we  -->
-with an aim of discovering and understanding the fundamental elements of intelligence, so as to build the next-generation learning systems (for the next 10+ years 🚀).
+with an aim of discovering and understanding the fundamental elements of intelligence, so as to build the next-generation learning systems (for the future 10+ years 🚀).
 
 <!-- Such a route would, on the one hand, bring us one step closer to the true machine intelligence (as our attempt in [Fractile](https://www.fractile.ai/)); on the other hand, improve our understanding of the most sophisticated part of our body, the brain (as our attempt in [the _Nature Neuroscience_ paper](https://www.nature.com/articles/s41593-023-01514-1)). -->
 
@@ -22,19 +22,23 @@ with an aim of discovering and understanding the fundamental elements of intelli
 
 <!-- in Computer Science & Neuroscience -->
 
-I obtained my PhD from Oxford University, where I was awarded [J.P. Morgan AI Research Award](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards) for identifying a family of learning principles from biological neurons (10 awardees worldwide). During this time, with [a group of amazing scientists](https://www.mrcbndu.ox.ac.uk/groups/bogacz-group), I first-authored [a _Nature Neuroscience_ paper](https://www.nature.com/articles/s41593-023-01514-1) and some AI/ML conference papers ([detailed in CV](http://yuhangsong.github.io/files/Curriculum_Vitae.pdf)).
+I obtained my PhD from Oxford University, where I was awarded [J.P. Morgan AI Research Award](https://www.jpmorgan.com/technology/artificial-intelligence/research-awards) (10 awardees worldwide) for identifying a family of learning principles from biological neurons. With [a group of amazing scientists](https://www.mrcbndu.ox.ac.uk/groups/bogacz-group), I first-authored [a _Nature Neuroscience_ paper](https://www.nature.com/articles/s41593-023-01514-1) and some AI/ML conference papers ([detailed in CV](http://yuhangsong.github.io/files/Curriculum_Vitae.pdf)).
 
 My research is presented in [the Nature Portfolio collection of Nobel Prize in Physics 2024](https://www.nature.com/collections/ehbjaifcgc) and extensively discussed in [a recent article on _The Economist_](https://www.economist.com/science-and-technology/2024/08/14/ai-scientists-are-producing-new-theories-of-how-the-brain-learns).
 
 <!-- "Other researchers are exploring rather different theories. In a paper published in _Nature Neuroscience_ earlier this year, Yuhang Song and colleagues at Oxford University..." -->
 
-My research inspires 100x more efficient hardware for artificial neural networks, turning into a spinout from Oxford University: [Fractile](https://www.fractile.ai/). I am fortunate to team up with [Walter](https://www.linkedin.com/in/walter-goodwin/) and cofound it in 2021 as the CTO. Fractile [raised a total of $17.5M (约1.2亿人民币) from various VCs](https://fortune.com/2024/07/26/fractile-ai-chip-startup-nvidia-15-million-funding-seed-round/) and [$6.3M (约4500万) from ARIA](https://www.businessweekly.co.uk/posts/fractile-on-song-as-aria-awards-ps5m-to-ai-chip-design-pioneer) over 2021-2024 and I left Fractile in 2024 to pursue my next venture. In 2025, former Intel CEO, Pat Gelsinger, [invested and joined Fractile](https://thetechcapital.com/former-intel-ceo-backs-uk-ai-startup-fractile-to-boost-llm-inference/).
+My research inspires 100x more efficient hardware for artificial neural networks, turning into a spinout from Oxford University: [Fractile](https://www.fractile.ai/). 
+I teamed up with [Walter Goodwin](https://www.linkedin.com/in/walter-goodwin/) and cofound it in 2021 as the CTO. 
+We [raised a total of $17.5M (约1.2亿人民币) from various top-tier VCs](https://fortune.com/2024/07/26/fractile-ai-chip-startup-nvidia-15-million-funding-seed-round/) and [$6.3M (约4500万) from ARIA](https://www.businessweekly.co.uk/posts/fractile-on-song-as-aria-awards-ps5m-to-ai-chip-design-pioneer) over 2021-2024. 
+I left Fractile in 2024 to pursue my next venture. 
+In 2025, former Intel CEO, Pat Gelsinger, [invested and joined Fractile](https://thetechcapital.com/former-intel-ceo-backs-uk-ai-startup-fractile-to-boost-llm-inference/).
 
 I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/) and [Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/) in 2024. Circlemind is [backed by YC at F24 batch](https://www.ycombinator.com/companies/circlemind). I left Circlemind in 2025.
 
 <!-- I am currently an independent researcher. -->
 
-In 2025, I am funded by “National Science Fund for Distinguished Young Scholars Overseas ([海外优青](https://www.nsfc.gov.cn/publish/portal0/tab442/info94490.htm))”, joining [School of Artificial Intelligence (人工智能学院)](https://ai.nju.edu.cn) at the [Nanjing University (南京大学)](https://www.nju.edu.cn), as Associate Professor (Pre-Tenure).
+In 2025, I am funded by “National Science Fund for Distinguished Young Scholars Overseas ([海外优青](https://www.nsfc.gov.cn/publish/portal0/tab442/info94490.htm))”, joining [School of Artificial Intelligence](https://www.nju.edu.cn/en/info/1026/8161.htm) ([人工智能学院](https://ai.nju.edu.cn)) at the [Nanjing University](https://www.nju.edu.cn/en/) ([南京大学](https://www.nju.edu.cn)), as Associate Professor (Pre-Tenure).
 For students and researchers interested in working with us, see [here](https://yuhangsong.github.io/work-with-us/).
 
 <!--  -->
