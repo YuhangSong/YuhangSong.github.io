@@ -34,7 +34,7 @@ I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedi
 
 <!-- I am currently an independent researcher. -->
 
-In 2025, I am funded by “National Science Fund for Distinguished Young Scholars (海外优青)”, joining [School of Artificial Intelligence (人工智能学院)](https://ai.nju.edu.cn) at the [Nanjing University (南京大学)](https://www.nju.edu.cn), as Associate Professor (Pre-Tenure).
+In 2025, I am funded by “National Science Fund for Distinguished Young Scholars Overseas ([海外优青](https://www.nsfc.gov.cn/publish/portal0/tab442/info94490.htm))”, joining [School of Artificial Intelligence (人工智能学院)](https://ai.nju.edu.cn) at the [Nanjing University (南京大学)](https://www.nju.edu.cn), as Associate Professor (Pre-Tenure).
 For students and researchers interested in working with us, see [here](https://yuhangsong.github.io/work-with-us/).
 
 <!--  -->
