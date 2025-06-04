@@ -24,7 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Yuhang Song"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor (Pre-Tenure) @ School of Artificial Intelligence, Nanjing University | (Ex) CSO & Co-founder @ Circlemind | (Ex) CTO & Co-founder @ Fractile | (Ex) J.P. Morgan AI Research Fellow | PhD @ Oxford University"
+  bio              : "Associate Professor (Pre-Tenure) @ School of Artificial Intelligence, Nanjing University | (Ex) CTO & Co-founder @ Fractile | (Ex) J.P. Morgan AI Research Fellow | PhD @ Oxford University"
+  # (Ex) CSO & Co-founder @ Circlemind | 
   location         : # "Oxford, UK"
   employer         : # "Oxford University"
   uri              : # URL

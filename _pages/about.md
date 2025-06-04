@@ -34,7 +34,7 @@ We [raised a total of $17.5M (约1.2亿人民币) from various top-tier VCs](htt
 I left Fractile in 2024 to pursue my next venture. 
 In 2025, former Intel CEO, Pat Gelsinger, [invested and joined Fractile](https://thetechcapital.com/former-intel-ceo-backs-uk-ai-startup-fractile-to-boost-llm-inference/).
 
-I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/) and [Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/) in 2024. Circlemind is [backed by YC at F24 batch](https://www.ycombinator.com/companies/circlemind). I left Circlemind in 2025.
+<!-- I cofound [Circlemind](https://circlemind.co) with [Antonio](https://www.linkedin.com/in/antonio-vespoli-895727121/) and [Luca](https://www.linkedin.com/in/luca-pinchetti-414230222/) in 2024. Circlemind is [backed by YC at F24 batch](https://www.ycombinator.com/companies/circlemind). I left Circlemind in 2025. -->
 
 <!-- I am currently an independent researcher. -->
 
