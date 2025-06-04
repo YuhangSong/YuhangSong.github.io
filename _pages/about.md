@@ -29,7 +29,7 @@ My research is presented in [the Nature Portfolio collection of Nobel Prize in P
 <!-- "Other researchers are exploring rather different theories. In a paper published in _Nature Neuroscience_ earlier this year, Yuhang Song and colleagues at Oxford University..." -->
 
 My research inspires 100x more efficient hardware for artificial neural networks, turning into a spinout from Oxford University: [Fractile](https://www.fractile.ai/). 
-I teamed up with [Walter Goodwin](https://www.linkedin.com/in/walter-goodwin/) and cofound it in 2021 as the CTO. 
+I cofounded Fractile in 2021 (as the leading founder at the time) and act as the CTO. 
 We [raised a total of $17.5M (约1.2亿人民币) from various top-tier VCs](https://fortune.com/2024/07/26/fractile-ai-chip-startup-nvidia-15-million-funding-seed-round/) and [$6.3M (约4500万) from ARIA](https://www.businessweekly.co.uk/posts/fractile-on-song-as-aria-awards-ps5m-to-ai-chip-design-pioneer) over 2021-2024. 
 I left Fractile in 2024 to pursue my next venture. 
 In 2025, former Intel CEO, Pat Gelsinger, [invested and joined Fractile](https://thetechcapital.com/former-intel-ceo-backs-uk-ai-startup-fractile-to-boost-llm-inference/).
