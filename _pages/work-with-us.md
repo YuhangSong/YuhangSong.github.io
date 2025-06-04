@@ -53,7 +53,7 @@ I see broadly two kinds of talents, and you can be either one of them (i.e., don
 
 ## 🎯 Expected Outcomes
 
-<!-- **We produce "deep" work (papers, posts, repos, or anything) with profound impacts**, rather than "shallow" work with short-term aims (for example, just to have more papers accepted).
+<!-- **We produce "deep" work (papers, posts, repos, or anything) with profound impacts**.
 But "deep" papers do not necessarily mean "difficult" papers. With the right insights, we had experience before that we produced papers with good impact and are accepted in top AI conferences with 2-3 weeks' effort. (Of course, these are quite rare cases, normally deep work takes energy, enthusiasm, and time.)
 
 **Should I expect myself to gain industrial or research qualities from the experience?**
@@ -61,6 +61,8 @@ We consider our research demands very general capability and thus train you to d
 Such capability should be desired in both industrial and research contexts.
 But for those industrial careers requiring very specific technical skills, we are not aligned.
 So overall, we consider the outcome to be leaning towards a research-type of career. -->
+
+<!-- rather than "shallow" work with short-term aims (for example, just to have more papers accepted) -->
 
 Just as this research direction carried me to fulfilling roles in academia, industrial research, and entrepreneurship, it can launch you toward success along whichever of these paths you choose. (I will add more details here later along each line.)
 
