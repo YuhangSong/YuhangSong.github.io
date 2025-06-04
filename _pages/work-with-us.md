@@ -64,6 +64,6 @@ So overall, we consider the outcome to be leaning towards a research-type of car
 
 <!-- rather than "shallow" work with short-term aims (for example, just to have more papers accepted) -->
 
-Just as this research direction carried me to fulfilling roles in academia, industrial research, and entrepreneurship, it can launch you toward success along whichever of these paths you choose. (I will add more details here later along each line.)
+Just as this research direction carried me to fulfilling roles in academia, industrial research, and entrepreneurship, it can launch you toward success along whichever of these paths you embark on. (I will add more details here later along each line.)
 
 🎉 Congrats in making it to the end! You are now ready to [reach out to us](https://yuhangsong.github.io/contact/), including a brief self-introduction and why you’re interested in working with us.
