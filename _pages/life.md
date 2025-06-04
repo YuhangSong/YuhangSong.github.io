@@ -13,7 +13,7 @@ I used to be super into badminton, played over 10+ years, and used to play for O
 I believe life and work deserve the same fire. 
 <!-- So I chase joy in the code, on the court, and through the slopes and mountains. -->
 
-See below my recent freestyle skiing showoff — humblebrag included.
+See below my recent freestyle skiing clip.
 
 <div style="max-width:700px">   <!-- limit the *container* if you wish -->
   <video
