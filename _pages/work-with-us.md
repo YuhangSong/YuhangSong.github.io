@@ -51,6 +51,14 @@ I see broadly two kinds of talents, and you can be either one of them (i.e., don
 
 🌱 You expect the time to be a pleasant intellectual exercise; you are curious, eager to explore, and learn.
 
+## 🧑‍🏫 Advising Style
+
+My advising style is *highly engaged* — deeply shaped by my own PhD advisor, who led by example. I write code, derive equations, and prepare slides to explain ideas when needed.
+
+That is, I don’t just give high-level guidance — I work with you side by side through the thinking and building. I see research as a collaborative journey, where both of us are actively engaged, intellectually invested, and driven by curiosity.
+
+This works best when you are also *highly motivated*: proactive in exploring ideas, open to feedback, and excited about learning and creating together. If that sounds like you, we’ll likely have a great time working together.
+
 ## 🎯 Expected Outcomes
 
 <!-- **We produce "deep" work (papers, posts, repos, or anything) with profound impacts**.
