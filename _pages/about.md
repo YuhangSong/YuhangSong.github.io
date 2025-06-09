@@ -40,13 +40,15 @@ I left Fractile in 2024 to pursue my next venture.
 <!-- I am currently an independent researcher. -->
 
 In 2025, I am funded by “National High-Level Youth Talent Program for Overseas Scholars ([国家级海外青年高层次人才](https://www.nsfc.gov.cn/publish/portal0/tab442/info94490.htm))”, joining [School of Artificial Intelligence](https://www.nju.edu.cn/en/info/1026/8161.htm) ([人工智能学院](https://ai.nju.edu.cn)) at the [Nanjing University](https://www.nju.edu.cn/en/) ([南京大学](https://www.nju.edu.cn)), as Associate Professor (Pre-Tenure).
-For students and researchers interested in working with us, see [here](https://yuhangsong.github.io/work-with-us/).
-
-**Openings:** For entry in year 2026, I have capacity for two master’s students and one PhD student.
 
 For my full education background and professional experiences, [refer to my CV](http://yuhangsong.github.io/files/Curriculum_Vitae.pdf).
 
 One more thing — I believe life and work deserve the same fire, see my [Life](https://yuhangsong.github.io/life/) page.
+
+# Openings
+
+For entry in year 2026, I have capacity for two master’s students and one PhD student. I also have regular funding for postdoc positions. For students and researchers interested in working with us, read [here](https://yuhangsong.github.io/work-with-us/) before reaching out.
+
 
 <!--  -->
 
