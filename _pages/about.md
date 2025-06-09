@@ -9,7 +9,8 @@ redirect_from:
 
 <!-- > 中文版请下滑 -->
 
-My interest is to decipher learning principles of biological neurons,
+I lead Atom Of Learning (**AtoL**) Lab at the Nanjing University (南京大学).
+Here, we decipher learning principles of biological neurons,
 <!-- so as to reverse-engineer them as new algorithms or specialized hardware.  -->
 <!-- With such a route, we  -->
 with an aim of discovering and understanding the fundamental elements of intelligence, so as to build the next-generation learning systems (for the future 10+ years 🚀).
