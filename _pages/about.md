@@ -53,7 +53,7 @@ For entry in year 2026, I have capacity for two master’s students and one PhD 
 
 # Teachings
 
-Starting from Fall 2026, I will be teaching two undergraduate courses: Introduction to Neuroscience (神经科学导论) and Intelligent Hardware and New Devices (智能硬件与新器件). These courses reflect my long-standing research interests and hands-on experience in neural computation and neuromorphic systems, offering students an opportunity to learn foundational concepts  through the lens of active work across both scientific discovery and real-world applications.
+Starting from Fall 2026, I will be teaching two undergraduate courses: Introduction to Neuroscience (神经科学导论) and Intelligent Hardware and New Devices (智能硬件与新器件). These courses reflect my long-standing research interests and hands-on experience in neural computation and neuromorphic systems, offering students an opportunity to learn foundational concepts through the lens of active work across both scientific discovery and real-world applications.
 
 
 <!--  -->
