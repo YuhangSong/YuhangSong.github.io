@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- 二维码在 https://cli.im/url?01e8baf8b30406cdb6f920b20c385443 登陆手机 18094240939 -->
 
-I lead Atom Of Learning (**AtoL**) Lab at the Nanjing University (南京大学).
+I lead Atom of Learning (**AtoL**) Lab ([中文介绍](http://yuhangsong.github.io/files/Atol_Lab.pdf)) at the Nanjing University (南京大学).
 Here, we decipher learning principles of biological neurons,
 <!-- so as to reverse-engineer them as new algorithms or specialized hardware.  -->
 <!-- With such a route, we  -->
