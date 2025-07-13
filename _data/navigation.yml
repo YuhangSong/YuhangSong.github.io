@@ -11,6 +11,9 @@ main:
   - title: "Work with Us"
     url: /work-with-us/    
 
+  - title: "NeTS Talk"
+    url: /NeTS-Talk/   
+
   - title: "Contact"
     url: /contact/
 
