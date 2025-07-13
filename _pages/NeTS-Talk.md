@@ -7,8 +7,11 @@ redirect_from:
     - /NeTS-Talk.html
 ---
 
-**Ne**ver **T**oo **S**imple, never too far.
+**Ne**ver **T**oo **S**imple, never too far. Inspired by:
 
 <img src="https://raw.githubusercontent.com/yuhangsong/yuhangsong.github.io/master/files/Albert_Einstein_1947.jpg" alt="Albert Einstein" width="300">
 
-> “Everything should be made as simple as possible, but not simpler.” -- Albert Einstein
+> “Everything should be made as simple as possible, but not simpler.” 
+> -- Albert Einstein
+
+**Ne**ver **T**oo **S**imple (**NeTS**) Talk is a ...
