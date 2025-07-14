@@ -14,4 +14,4 @@ redirect_from:
 > “Everything should be made as simple as possible, but not simpler.” 
 > -- Albert Einstein
 
-**Ne**ver **T**oo **S**imple (**NeTS**) Talk is a ...
+**Ne**ver **T**oo **S**imple (**NeTS**) Talk is coming soon... Stay tuned!
