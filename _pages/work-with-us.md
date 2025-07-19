@@ -32,6 +32,7 @@ Below lists the topics that we are currently most excited about and actively wor
 
 
 Some notes of ideas / papers I want to read below (will turn into more concrete topics later):
+- Energy redistribution enables internal reasoning?
 - [2-Simplicial Transformer](https://arxiv.org/abs/2507.02754)
 - Neural networks as external memories like RAG?
 <!-- -   Neural networks as memories, in place of RAG. We learned through painful process of deploy AI in production that contextualization is the most important and challenging part. The current solution, RAG, is not working well nor elegant. We know neural networks can be made to as memories, would them be good enough  -->
