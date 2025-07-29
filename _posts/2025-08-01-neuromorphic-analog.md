@@ -1,5 +1,5 @@
 ---
-title: 'Neuromorphic and Analog'
+title: 'Neuromorphic and Analog for Future AI Compute: Views on Possibilities and Pitfalls'
 date: 2025-08-01
 permalink: /posts/neuromorphic-analog/
 tags:
