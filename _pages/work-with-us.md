@@ -12,6 +12,7 @@ If interested in working with us, have a read of this page, to see if you
 -   🌈 buy our research belief,
 -   📚 are interested in the research topics,
 -   🌟 consider yourself a good fit for the expected qualities,
+-   🧑‍🏫 like my mentorship style,
 -   🎯 and love what outcome you can expect in such an experience.
 
 We welcome talented students and researchers at all levels (undergraduate, master, PhD, post-doc) and from all backgrounds (computer science, neuroscience, physics, mathematics, etc.).
@@ -60,9 +61,9 @@ I see broadly two kinds of talents, and you can be either one of them (i.e., don
 
 🌱 You expect the time to be a pleasant intellectual exercise; you are curious, eager to explore, and learn.
 
-## 🧑‍🏫 Advising Style
+## 🧑‍🏫 Mentorship Style
 
-My advising style is *highly engaged* — deeply shaped by my own PhD advisor, who led by example. I write code, derive equations, and prepare slides to explain ideas when needed.
+My mentorship style is *highly engaged* — deeply shaped by my own PhD advisor, who led by example. I write code, derive equations, and prepare slides to explain ideas when needed.
 
 That is, I don’t just give high-level guidance — I work with you side by side through the thinking and building. I see research as a collaborative journey, where both of us are actively engaged, intellectually invested, and driven by curiosity.
 
