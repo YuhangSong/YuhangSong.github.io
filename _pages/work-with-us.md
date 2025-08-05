@@ -16,6 +16,9 @@ If interested in working with us, have a read of this page, to see if you
 
 We welcome talented students and researchers at all levels (undergraduate, master, PhD, post-doc) and from all backgrounds (computer science, neuroscience, physics, mathematics, etc.).
 
+**Computing resources**: We (will) have a cluster of 96 to 120 GTX 4090 GPUs (48GB GRAM each), on 12 to 15 machines, each with 1040 CPU cores (2080 CPU threads). The cluster will be in place gradually in the year 2025-2026.
+
+
 ## 🌈 Research Belief
 
 We work across intersections of some of the most exciting topics related to intelligence (biological neurons & brains, new artificial neural networks, dissected transformers, next-generation GPUs, neuromorphic devices & systems, emerging memories, and etc.). Most importantly, we look at things in the most first-principled way (from a most fundamental level). Thus explains why the above seemingly diverse topics form a coherent whole in our research:
@@ -81,3 +84,7 @@ So overall, we consider the outcome to be leaning towards a research-type of car
 Just as this research agenda carried me to fulfilling roles in academia, industrial research, and entrepreneurship, it can launch you toward success along whichever of these paths you embark on. (I will add more details here later along each line.)
 
 🎉 Congrats in making it to the end! You are now ready to [reach out to us](https://yuhangsong.github.io/contact/), including a brief self-introduction and why you’re interested in working with us.
+
+<!-- ## Culture
+
+Inspired by Zhou, always keep in mind: you are here to learn and grow, rather than giving your labor. -->
