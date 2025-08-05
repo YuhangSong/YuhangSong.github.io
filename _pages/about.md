@@ -45,11 +45,11 @@ In 2025, I am funded by “National High-Level Youth Talent Program for Overseas
 
 For my full education background and professional experiences, [refer to my CV](http://yuhangsong.github.io/files/Curriculum_Vitae.pdf).
 
-One more thing — I believe life and work deserve the same fire, see my [Life](https://yuhangsong.github.io/life/) page.
+One more thing — I believe life and work deserve the same fire, see my [Life](./life/) page.
 
 # Openings
 
-For entry in year 2026, I have capacity for two master’s students and one PhD student. I also have regular funding for postdoc positions. For students and researchers interested in working with us, read [here](https://yuhangsong.github.io/work-with-us/) before reaching out.
+For entry in year 2026, I have capacity for two master’s students and one PhD student. I also have regular funding for postdoc positions. For students and researchers interested in working with us, read [here](./work-with-us/) before reaching out.
 
 # Teachings
 
@@ -75,9 +75,9 @@ Starting from Fall 2026, I will be teaching two undergraduate courses: Introduct
 
 # Quick Links
 
-- 🧾 [Publications](https://yuhangsong.github.io/publications/) -- Not the most in number, but among the best in quality.
-- 🤝 [Work with Us](https://yuhangsong.github.io/work-with-us/) -- If you would like to work with us, read this page before reaching out.
-- 🎙️ [NeTS Talk](https://yuhangsong.github.io/NeTS-Talk/) -- Weekly talks covering cutting-edge topics, in simple words, with boundless depth.
-- 💡 [Blogs](https://yuhangsong.github.io/year-archive/) -- I write blogs to share my research and reflections — ranging from concrete ideas and algorithms to broader perspectives on AI and technology..
-- ✉️ [Contact](https://yuhangsong.github.io/contact/) -- Various ways to find me.
-- 🌿 [Life](https://yuhangsong.github.io/life/) -- Life and work deserve the same fire.
+- 🧾 [Publications](./publications/) -- Not the most in number, but among the best in quality.
+- 🤝 [Work with Us](./work-with-us/) -- If you would like to work with us, read this page before reaching out.
+- 🎙️ [NeTS Talk](./NeTS-Talk/) -- Weekly talks covering cutting-edge topics, in simple words, with boundless depth.
+- 💡 [Blogs](./year-archive/) -- I write blogs to share my research and reflections — ranging from concrete ideas and algorithms to broader perspectives on AI and technology.
+- ✉️ [Contact](./contact/) -- Various ways to find me.
+- 🌿 [Life](./life/) -- Life and work deserve the same fire.
