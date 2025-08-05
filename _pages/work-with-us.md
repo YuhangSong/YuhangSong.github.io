@@ -16,7 +16,7 @@ If interested in working with us, have a read of this page, to see if you
 
 We welcome talented students and researchers at all levels (undergraduate, master, PhD, post-doc) and from all backgrounds (computer science, neuroscience, physics, mathematics, etc.).
 
-**Computing resources**: We (will) have a cluster of 96 to 120 GTX 4090 GPUs (48GB GRAM each), on 12 to 15 machines, each with 1040 CPU cores (2080 CPU threads). The cluster will be in place gradually in the year 2025-2026.
+**Computing resources** -- We (will) have a cluster of 96 to 120 GTX 4090 GPUs (48GB GRAM each), on 12 to 15 machines, each with 1040 CPU cores (2080 CPU threads). The cluster will be in place gradually in the year 2025-2026.
 
 
 ## 🌈 Research Belief
