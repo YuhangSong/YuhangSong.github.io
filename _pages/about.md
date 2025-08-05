@@ -78,5 +78,6 @@ Starting from Fall 2026, I will be teaching two undergraduate courses: Introduct
 - 🧾 [Publications](https://yuhangsong.github.io/publications/) -- Not the most in number, but among the best in quality.
 - 🤝 [Work with Us](https://yuhangsong.github.io/work-with-us/) -- If you would like to work with us, read this page before reaching out.
 - 🎙️ [NeTS Talk](https://yuhangsong.github.io/NeTS-Talk/) -- Weekly talks covering cutting-edge topics, in simple words, with boundless depth.
+- 💡 [Blogs](https://yuhangsong.github.io/year-archive/) -- I write blogs to share my research and reflections — ranging from concrete ideas and algorithms to broader perspectives on AI and technology..
 - ✉️ [Contact](https://yuhangsong.github.io/contact/) -- Various ways to find me.
 - 🌿 [Life](https://yuhangsong.github.io/life/) -- Life and work deserve the same fire.
