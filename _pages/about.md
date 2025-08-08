@@ -79,7 +79,7 @@ Starting from Fall 2026, I will be teaching two undergraduate courses: "[Introdu
 - 🤝 [Work with Us](./work-with-us/) -- If you would like to work with us, read this page before reaching out.
 - 🎙️ [NeTS Talk](./NeTS-Talk/) -- Weekly talks covering cutting-edge topics, in simple words, with boundless depth.
 - 💡 [Blogs](./year-archive/) -- I write blogs to share my research and reflections — ranging from concrete ideas and algorithms to broader perspectives on AI and technology.
-- 🧠 [Introduction to Neuroscience](./neuroscience/) -- Course page for the "Introduction to Neuroscience course (神经科学导论)".
-- 📀 [Intelligent Hardware and New Devices](./hardware/) -- Course page for the "Intelligent Hardware and New Devices course (智能硬件与新器件)".
+- 🧠 [Neuroscience](./neuroscience/) -- Course page for the "Introduction to Neuroscience course (神经科学导论)".
+- 📀 [Hardware](./hardware/) -- Course page for the "Intelligent Hardware and New Devices course (智能硬件与新器件)".
 - ✉️ [Contact](./contact/) -- Various ways to find me.
 - 🌿 [Life](./life/) -- Life and work deserve the same fire.
