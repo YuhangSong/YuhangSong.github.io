@@ -14,6 +14,12 @@ main:
   - title: "NeTS Talk"
     url: /NeTS-Talk/   
 
+  - title: "Neuroscience"
+    url: /neuroscience/
+
+  - title: "Hardware"
+    url: /hardware/
+
   - title: "Contact"
     url: /contact/
 

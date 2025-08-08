@@ -53,7 +53,7 @@ For entry in year 2026, I have capacity for two master’s students and one PhD 
 
 # Teachings
 
-Starting from Fall 2026, I will be teaching two undergraduate courses: [Introduction to Neuroscience (神经科学导论)](./neuroscience-introduction/) and [Intelligent Hardware and New Devices (智能硬件与新器件)](./hardware/). These courses reflect my long-standing research interests and hands-on experience in neural computation and neuromorphic systems, offering students an opportunity to learn foundational concepts through the lens of active work across both scientific discovery and real-world applications.
+Starting from Fall 2026, I will be teaching two undergraduate courses: "[Introduction to Neuroscience (神经科学导论)](./neuroscience/)" and "[Intelligent Hardware and New Devices (智能硬件与新器件)](./hardware/)". These courses reflect my long-standing research interests and hands-on experience in neural computation and neuromorphic systems, offering students an opportunity to learn foundational concepts through the lens of active work across both scientific discovery and real-world applications.
 
 
 <!--  -->
@@ -79,5 +79,7 @@ Starting from Fall 2026, I will be teaching two undergraduate courses: [Introduc
 - 🤝 [Work with Us](./work-with-us/) -- If you would like to work with us, read this page before reaching out.
 - 🎙️ [NeTS Talk](./NeTS-Talk/) -- Weekly talks covering cutting-edge topics, in simple words, with boundless depth.
 - 💡 [Blogs](./year-archive/) -- I write blogs to share my research and reflections — ranging from concrete ideas and algorithms to broader perspectives on AI and technology.
+- 🧠 [Introduction to Neuroscience](./neuroscience/) -- Course page for the "Introduction to Neuroscience course (神经科学导论)".
+- 📀 [Intelligent Hardware and New Devices](./hardware/) -- Course page for the "Intelligent Hardware and New Devices course (智能硬件与新器件)".
 - ✉️ [Contact](./contact/) -- Various ways to find me.
 - 🌿 [Life](./life/) -- Life and work deserve the same fire.
