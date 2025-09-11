@@ -7,9 +7,7 @@ author_profile: true
 
 ✉️ E-mail: dr.yuhang.song [at] gmail.com
 
-💬 I prefer talking over typing, so if you got a long email to write, consider <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/yuhang-song?hide_gdpr_banner=1'});return false;">schedule a call/meet-up with me</a>.
+💬 I prefer talking over typing, so if you got a long email to write, consider [schedule a call/meet-up with me](https://calendar.app.google/hht4fM1at5AGyhXD8).
 
 ## Students
 
